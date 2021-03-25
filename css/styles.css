@@ -49,6 +49,14 @@
         .column-4 p {
             color: white;
         }
+        
+        .column-4 h4 {
+            color: white;
+        }
+        
+        #section-4 {
+            background-color: gray;
+        }
         /* Estilos de la página */
         
         #header {
